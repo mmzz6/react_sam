@@ -19,7 +19,6 @@ const Homeview = () => {
                 <Skill />
                 <Site />
                 <Port />
-                <Contact />
             </Main>
             <Footer />
         </div>

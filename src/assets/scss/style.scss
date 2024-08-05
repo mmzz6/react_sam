@@ -7,5 +7,10 @@
 @import "setting/mixin";
 
 //section
-@import "section/skip.scss" ;
-@import "section/header.scss";
+@import "section/skip";
+@import "section/header";
+@import "section/intro";
+@import "section/skill";
+@import "section/site";
+@import "section/port";
+@import "section/footer"
